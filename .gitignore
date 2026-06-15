@@ -1,6 +1,7 @@
 __pycache__/
 *.py[codz]
 MP-Gadget/
+MP-Gadget/*
 spectrum_maker/
 igm/
 nbody_simulations/tutorial/
